@@ -1,5 +1,7 @@
 # FacialRegEncryption
-Uses a facial image as a base then compares it to the face currently focused using eucliean distance and FaceNet. Then gives user an option to either decrypt or encrypt a msg/
+Uses a facial image as a base then compares it to the face currently focused using eucliean distance and FaceNet. Then gives user an option to either decrypt or encrypt a msg.
+
+The program is quite choppy and has a major loss in fps when focused on a face, I did not optimize it.
 
 
 This program was heavily outsourced from this GitHub
