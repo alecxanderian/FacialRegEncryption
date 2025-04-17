@@ -7,3 +7,14 @@ This program was heavily outsourced from this GitHub
 https://github.com/akshaybahadur21/FaceDetection
 
 I just recoded some parts and made it simpler to fit the use case of the project.
+
+
+The following python dependencies are required in order to run the program:
+dlib
+opencv
+numpy
+base64
+cryptography
+imutils
+pickle
+hashlib
