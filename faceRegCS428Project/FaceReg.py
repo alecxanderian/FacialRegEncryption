@@ -1,5 +1,5 @@
 """
-Author: Alec C.
+Author: Alec C.  Simardeep K.
 Title: Face-Based Encryption Software
 Date: April 17, 2025
 
