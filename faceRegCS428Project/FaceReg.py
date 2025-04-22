@@ -32,7 +32,7 @@ KEY_PATH = "face_key.key"
 IMG_PATH = "reference_face.png"
 TEST_FILE = "secret.txt"
 ENCRYPTED_FILE = "secret.enc"
-UNLOCK_DISTANCE_THRESHOLD = .2  # match threshold
+UNLOCK_DISTANCE_THRESHOLD = .5  # match threshold
 
 # Video setup
 video_capture = cv2.VideoCapture(0)
